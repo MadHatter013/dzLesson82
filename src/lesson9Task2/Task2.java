@@ -5,4 +5,7 @@ public class Task2 {
         public String str2 = "Переменная класса доступна всем";
         String str3 = "Переменная класса видна внутри пакета";
         protected String str4 = "Переменная класса доступна внутри пакета и в наследниках";
+
+        private int a;
+
 }
